@@ -1,8 +1,27 @@
 
-/*********index page*************/
+/*********general*************/
 
 .photo {
 	float: right;
 	border: 1.5px;
-	border-radius: 25px;
+	border-radius: 50px;
+}
+
+.photo1 {
+	float: left;
+	border: 1.5px;
+	border-radius: 100px;
+}
+
+#bio {
+	display: inline-block;
+}
+
+/**********navigation*************/
+nav {
+	text-align: center;
+}
+
+nav li {
+	list-style: none;
 }
