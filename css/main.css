@@ -3,5 +3,6 @@
 
 .photo {
 	float: right;
+	border: 1.5px;
 	border-radius: 25px;
 }
