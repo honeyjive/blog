@@ -17,6 +17,10 @@
 	display: inline-block;
 }
 
+span {
+	color: purple;
+}
+
 /**********navigation*************/
 nav {
 	text-align: center;
