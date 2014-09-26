@@ -19,19 +19,26 @@
 
 span {
 	color: purple;
+	border: 1px solid violet;
 }
 
+header {
+	border: 1px solid violet;
+	margin: 0 0 10px 0;
+	padding: 10px;
+}
 
 /**********navigation*************/
 nav {
 	text-align: center;
+	border: 1px solid violet;
 }
 
 nav li {
 	list-style: none;
-	display: inline-block;
+/*	display: inline-block;*/
 }
 
-.js-test {
-	background: #85144B;
+/*.js-test {
+	background: #85144B;*/
 }
